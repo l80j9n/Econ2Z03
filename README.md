@@ -1,165 +1,206 @@
 java c
-Econ2Z03 Sample Exam Questions_Ch8,9,10
-MULTIPLE CHOICE.    Choose the one alternative that best completes the statement or answers the question. 
-1.   A   city   is   considering   a   proposal   to   award   an   exclusive   contract   to   Clear   Vision,   Inc.,   a   cable   television   carrier.   As the   single   supplier   of cable   television   services, the   company   faces      the   following   demand   and   marginal   cost functions:
-P   = 28   - 0.0008Q
-MC   = 0.0012Q,
-where   Q   = the   number   of   cable   subscribers   and   P   = the   price   of   basic   monthly   cable   service.   What   quantity would   be   expected?
-A)   12,000                                                                                                          B)   14,000                                                                                                          C)   10,000                                                                                                       D)   11,000
-2.   Which   of   following   is   an   example   of   a   homogeneous   product?
-A)   Gasoline
-B)   Copper
-C)   Personal   computers
-D)   Winter   parkas
-E) both   A   and   B
-3.   At   the   profit-maximizing   level   of   output, what   is   relationship   between   the   total   revenue   (TR)   and   total   cost   (TC)   curves?
-A)   They   must   be   tangent   to   each   other.
-B)   They   must   have   the   same   slope.
-C)   They   must   intersect, with   TC   cutting   TR   from   above.
-D)   They   must   intersect, with   TC   cutting   TR   from   below.
-E)   They   cannot   be   tangent   to   each   other.
-4.   The   demand   curve   facing   a   perfectly   competitive   firm   is
-A)   the   same   as   its   average   revenue   curve, but   not   the   same   as   its   marginal   revenue   curve.
-B) not   defined   in   terms   of   average   or   marginal   revenue.
-C)   the   same   as   its   average   revenue   curve   and   its   marginal   revenue   curve.
-D)   not   the   same   as   either   its   marginal   revenue   curve   or   its   average   revenue   curve.
-E)   the   same   as   its   marginal   revenue   curve, but   not   its   average   revenue   curve.
-Consider   the   following   diagram   where   a   perfectly   competitive   firm   faces   a   price   of   $40.
+Econ2Z03   Sample   Exam   Questions_Ch5,6,7
+MULTIPLE   CHOICE.    Choose the   one alternative that best completes the statement   or   answers   the   question.
+1)   What   describes   the   graphical   relationship   between   average   product   and   marginal   product?
+A)   Average   product   cuts   marginal   product   from   below, at   the   maximum   point   of   marginal   product.
+B)   Marginal   product   cuts   average   product   from   below, at   the   maximum   point   of   average   product.
+C)   Average   and   marginal   product   do   not   intersect.
+D)   Average   product   cuts   marginal   product   from   above, at   the   maximum   point   of   marginal   product.
+E)   Marginal   product   cuts   average   product   from   above,   at   the   maximum   point   of   average   product.
+2)   Consider   the   following   statements   when   answering   this   question;
+I.             Suppose   a   semiconductor   chip   factory   uses   a   technology   where   the   average   product   of   labor   is   constant   for all   employment   levels. This   technology   obeys   the   law   of   diminishing   returns.
+II.         Suppose a semiconductor chip factory uses a technology   where   the   marginal   product   of   labor   rises,   then   is   constant and finally falls as employment increases.    This   technology   obeys   the   law   of   diminishing   returns.
+A)   Both   I   and   II   are   true.                                                                                                                                                                                        B)   I is true,   and   II is   false.
+C)   Both   I   and   II   are   false.                                                                                                                                                                                     D)   I is false, and II is   true.
+3)   A   manufacturing   firm   uses   only   capital   (K) and   labour   (L)   to   produce   its   product,   using   a   production   function of   Q   = 10KL. It   pays   its   workers   w   = $15 per   hour   and   has   a   rental   cost   of   capital   of   r   = $5   per   hour.   If   the   firm    wants   to   produce   480 units   of   output, the   optimal   bundle   of   inputs   is:
+A)   (4,   12).                                                                                                          B)   (3,   16).                                                                                                          C)   (12, 4)                                                                                                          D)   (6, 8).
+4)   The   law   of   diminishing   returns   assumes   that
+A)   there   is   at   least   one   fixed   input.
+B)   all   inputs   are   held   constant.
+C)   additional   inputs   are   added   in   smaller   and   smaller   increments.
+D)   all   inputs   are   changed   by   the   same   percentage.
+5)   Use   the   following   two   statements   to   answer   this   question:
+I.             The   marginal   product   of   labor   is   the   slope   of   the   line   from   the   origin   to   the   total   product   curve   at   that   level of   labor   usage.
+II          The average   product   of labor   is   the   slope   of   the   line   that   is   tangent   to   the   total   product   curve   at   that   level   of   labor   usage.
+A)   I   is   true, and   II   is   false.                                                                                                                                                                                  B)   I is false, and   II   is   true.
+C)   Both   I   and   II   are   true.                                                                                                                                                                                     D)   Both   Iand   II   are   false.
 
-Figure 8.1 
-5.   Refer   to   Figure   8.1.    At   the   profit-maximizing   level   of   output, ATC   is
-A)   $31.                                                                                     B)   $30.                                                                                     C)   $44.                                                                                     D)   $40.                                                                                        E)   $26.
-6.   Bette's   Breakfast, a   perfectly   competitive   eatery, sells   its   "Breakfast   Special"   (the   only   item   on   the   menu)   for
-$5.00. The   costs   of   waiters, cooks, power, food   etc.   average   out   to   $3.95   per   meal;   the   costs   of   the   lease,   insurance and   other   such   expenses   average   out   to   $1.25 per   meal.   Bette   should
-A)   raise   her   prices   above   the   perfectly   competitive   level.
-B)   continue   producing   in   the   short   and   long   run.
-C)   lower   her   output.
-D)   close   her   doors   immediately.
-E)   continue   producing   in   the   short   run, but   plan   to   go   out   of   business   in   the   long   run.
-7.   Consider   the   following   statements   when   answering   this   question
-I.          Increases in the   demand   for   a   good,   which   is   produced by   a   competitive industry,   will   raise   the   short-run   market   price.
-II.       Increases in the demand for   a   good,   which   is   produced by   a   competitive   industry,   will   raise   the   long-run   market   price.
-A)   I   is   false, and   II   is   true.                                                                                                                                                                                  B)   I and II   are   true.
-C)   I is true, and II   is   false.                                                                                                                                                                                  D)   I and II are false.
+Figure   6.1
+6)   Refer   to   Figure   6.1.    Which   of   the   following   statements   is   false?
+A)   At   point   E   the   marginal   product   of   labor   is   less   than   the   average   product   of   labor.
+B)   At   point   E   the   average   product   of   labor   is   negative.
+C)   At   point   E   the   marginal   product   of   labor   is   negative.
+D)   At   point   E   the   average   product   of   labor   is   decreasing.
+E)   At   point   E   the   marginal   product   of   labor   is   decreasing.
+7)   If   capital   is   measured   on   the   vertical   axis   and   labor   is   measured   on   the   horizontal   axis,   the   slope   of   an   isoquant can   be   interpreted   as   the
+A)   marginal   product   of   capital.
+B)   average   rate   at   which   the   firm   can   replace   capital   with   labor   without   changing   the   output   rate.
+C)   marginal   product   of   labor.
+D)   rate   at   which   the   firm   can   replace   capital   with   labor   without   changing   the   output   rate.
 
-Figure 8.2 
-8.   Refer   to   Figure   8.2.    If   the   firm   expects   $80 to   be   the   long-run   price, how   many   units   of   output   will   it   plan   to produce   in   the   long   run?
-A)   34                                                                                                 B)   22                                                                                                 C)   64                                                                                              D)   50                                                                                                    E)   38
-9.   In long-run competitive equilibrium, a firm that owns   factors   of   production   will   have   an
-A)   economic   profit   = $0 and   accounting   profit   > $0.
-B)   economic   and   accounting   profit   can   take   any   value.
-C)   economic   and   accounting   profit   > $0.
-D)   economic   and   accounting   profit   = $0.
-E)   economic   profit   > $0 and   accounting   profit   = $0.
 
-Figure 9.2 
-10.   Refer   to   Figure   9.2.    At   price   0H   and   quantity   Q1,   consumer   surplus   is   the   area
-A)   0FGQ1.
-B)   HFGB.
-C)   EFC.
-D)   EDGF.
+8)   An   examination   of   the   production   isoquants   in   the   diagram   below   reveals   that:
+
+A)   capital   and   labor   must   be   used   in   fixed   proportions.
+B)   capital   and   labor   are   perfectly   substitutable.
+C)   the   MRTS   is   constant   along   the   isoquant.
+D)   Both   B   and   C   are   correct.
 E) none   of   the   above
-11.   Under   a   binding   price   ceiling, what   does   the   change   in   consumer   surplus   represent?
-A)   The   loss   in   surplus   for   those   buyers   who   previously   purchased   some   units   of   the   good   at   the   higher   price,   but   these   units   are   no   longer   produced   at   the   lower   price.
-B)   The   gain   in   surplus   for   those   buyers   who   can   still   purchase   the   product   at   the   lower   price.
-C)   The   loss   in   surplus   for   those   buyers   who   would   like   the   purchase   the   excess   demand   created   by   the   price ceiling   policy.
-D)   Both   A   and   B   are   correct.
-E)   Both   A   and   C   are   correct.
-12.   Having   seen   the   quantity   of   drugs   supplied   by   pharmaceutical   companies   in   a   competitive   market,   a
-government decides to force companies to sell exactly the   same   quantity   of   drugs   at   prevailing   market prices.   The government then forbids additional drug sales   and   allows   doctors   to   prescribe   the   drugs   at no   cost   to patients   in   need.    This   government   scheme   is
-A)   efficient   as   the   quantity   of   drugs   traded   is   the   same   as   under   a   free   market.
-B)   efficient   as   consumer   surplus   is   maximized.
-C)   likely   to   be   inefficient   as   doctors   are   unlikely   to   prescribe   drugs   to   the   consumers   who   are   willing   to   pay the   most   for   the   drugs.
-D)   likely   to   be   inefficient   as   drug   producers   have   a   captive   buyer.
-E)   efficient   as   the   price   of   drugs   paid   by   the   government   is   the   same   as   under   a   free   market.
-13.   The   market   supply   curve   for   music   downloads   is   Q   = 135(P-1)   where   Q   is   millions   of   downloads   and   P   is   the    price   in   dollars   per   track.    If   the   current   price   is   $1.20   per   download, what   is   the   change   in   producer   surplus   if the   price   increases   by   $0.20 per   track?
-A)   $10.8 million                                                                        B)   $5.4 million                                                                              C)   $27 million                   代 写Econ2Z03 Sample Exam Questions_Ch8,9,10Python
-代做程序编程语言                                                           D)   $8.1 million
+9)   The   diagram   below   shows   an   isoquant   for   the   production   of   wheat.
 
-Figure 9.4 
-14.   Suppose   the   market   in   Figure   9.4 is   currently   in   equilibrium.      If   the   government   establishes   a   price   floor   of   $40,   consumer surplus will
-A)   fall   by   $350.
-B)   remain   the   same.
-C)   fall   by   $50.
-D)   rise   by   $50.
-E)   rise   by   $350.
+Which   point   has   the   highest   marginal   productivity   of   labor?
+A)   Point   A                                                                                                   B)   Point   B                                                                                                         C)   Point   C                                                                                                   D)   Point D
+10) Which of the following examples represents a   fixed-proportion   production   system with   capital   and   labor   inputs?
+A)   Airplanes   and   pilots                                                                                                                          B)   Horse-drawn   carriages   and   carriage   drivers
+C)   Clerical   staff   and   computers                                                                                                                                                D)   all   of   the   above
 
-Figure 9.7 
-15.   Refer   to   Figure   9.7.    Because   of   the   policy, consumer   surplus   fell   by
-A)   $45,000.                                                                B)   $10.                                                                                     C)   $12,500.                                                             D)   $25,000.                                                                   E)   $20.
-16.   A   specific   tax   will   be   imposed   on   a   good.      The   supply   and   demand   curves   for   the   good   are   shown   in   the diagram   below.    Given   this   information, the   burden   of   the   tax:
 
-A)   falls   mostly   on   consumers.
-B)   is   shared   about   evenly   between   consumers   and   producers.
-C)   falls   mostly   on   producers.
-D)   cannot   be   determined   without   more   information   on   the   price   elasticities   of   supply   and   demand.
-17. What   is   the   welfare   impact   of   a   subsidy   policy?
-A)   Producer   surplus   increases, consumer   surplus   declines, and   total   welfare   increases   due   to   the   subsidy program.
-B)   Producer   and   consumer   surplus   increase, and   these   gains   are   smaller   than   the   government   cost.
-C)   Producer   and   consumer   surplus   increase, and   these   gains   are   larger   than   the   government   cost.
-D)   Producer   surplus   increases, consumer   surplus   declines, and   total   welfare   declines.
-18. When   the   demand   curve   is   downward   sloping,   marginal   revenue   is
-A)   equal   to   price.                                                                                                                                                                                                                            B)   more   than   price.
-C)   equal   to   average   revenue.                                                                                                                                                             D)   less   than   price.
-19.   For   the   monopolist   shown   below, the   profit   maximizing   level   of   output   is:
 
-A)   Q3.                                                                                        B)   Q2.                                                                                        C)   Q5.                                                                                        D)   Q1.                                                                                           E)   Q4.
-20. Which   of   the   following   is   NOT   true   regarding   monopoly?
-A)   Monopoly   price   is   determined   from   the   demand   curve.
-B)   Monopolist   can   charge   as   high   a   price   as   it   likes.
-C)   Monopoly   is   the   sole   producer   in   the   market.
-D)   Monopoly   demand   curve   is   downward   sloping.
-21.   Compared   to   the   equilibrium   price   and   quantity   sold   in   a   competitive   market,   a   monopolist   will   charge   a
-price   and   sell   a   quantity.
-A) higher;   smaller
-B)   lower; larger
-C)   higher; larger
-D)   lower; smaller
-E) none   of   these
-22.   Suppose   that   a   firm   can   produce   its   output   at   either   of   two   plants.      If   profits   are   maximized,   which   of   the following   statements   is   true?
-A)   The   marginal   cost   at   the   two   plants   must   be   equal.
-B)   The   marginal   cost   at   the   second   plant   must   equal   marginal   revenue.
-C)   The   marginal   cost   at   the   first   plant   must   equal   marginal   revenue.
-D)   all   of   the   above
-E) none   of   the   above
-23.   A   monopolist   has   set   her   level   of   output   to   maximize   profit.      The   firm's   marginal   revenue   is   $20,   and   the   price elasticity   of   demand   is   -2.0.    The   firm's   profit   maximizing   price   is   approximately:
-A)   $0
-B)   $40
-C)   $20
-D)   $10
-E)   This   problem   cannot   be   answered   without   knowing   the   marginal   cost.
-24.   For   a   monopolist, at   the   profit-maximizing   level   of   output, demand   is
-A)   unit   elastic.
-B)   elastic, but   not   infinitely   elastic.
-C)   infinitely   elastic.
-D)   completely   inelastic.
-E)   inelastic, but   not   completely   inelastic.
-25.   The   demand   curve   for   red   herrings      is: Q   = 250   - 5P   What   level   of   output   maximizes   revenue?
-A)   85                                                                                                   B) 45                                                                                              C)   125                                                                                        D)   0                                                                                                       E)   245
-26.   The   more   elastic   the   demand   facing   a   firm,
-A)   the   higher   the   value   of   the   Lerner   index.                                                                                  B)   the   higher   its   profit.
-C)   the   lower   the   value   of   the   Lerner   index.                                                                                     D)   the   more   monopoly   power   it   has.
-27.   Roaring   Lion   Studios   can   produce   DVDs   at   a   constant   marginal   cost   of   $5   per   disk, and   the   studio   has   just
-releasing   the   DVD   for   its   latest   hit   film, Ernest Goes to the Hamptons.      The   retail   price   of   the   DVD   is   $25,   and   the       elasticity of demand for this film is   -2.    Has the   studio   selected   the   profit-maximizing   retail   price   for   this DVD?
-A)   No, the   retail   price   is   too   low
-B)   No, the   retail   price   is   too   high
-C)   Yes
-D)   We   do   not   have   enough   information   to   answer   this   question.
-28.   A   manufacturer   of   digital   music   players   uses   a   proprietary   file   format   that   is   not   used   by   the   other   firms   in   the
-market.    This action by the firm maybe an example of using a   to   reduce   the   number   of   firms   in   the
-market and to maintain a relatively inelastic   demand   for   its   products.
-A)   positive   externality                                                                                                                                                                                                B) natural   monopoly
-C) barrier   to   entry                                                                                                                                                                                                                        D)   subsidy
-29. Unlike   a   competitive   buyer,
-A)   a   monopsonist   pays   a   different   price   for   each   unit   purchased.
-B)   a   monopsonist   pays   a   price   that   depends   on   the   number   of   units   purchased.
-C)   a   monopsonist   faces   an   upward-sloping   industry   supply   curve.
-D)   a   monopsonist   sets   marginal   value   equal   to   marginal   expenditure.
+Figure   6.2
 
-Figure 10.5.1
-The marginal value curve and expenditure curves in   the   diagram   above   are   those   of   a   monopsony.
-30.   Refer   to   Figure   10.5.1.    What   quantity   will   be   purchased   in   a   competitive   market?A)   Q1B)   Q2C)   Q3D)   Q4
-E) none   of   the   above
+
+11)   Refer   to   Figure   6.2.    The   situation   pictured   is   one   of
+A)   increasing   returns   to   scale, because   doubling   inputs   results   in   more   than   double   the   amount   of   output.
+B)   constant   returns   to   scale, because   the   line   through   the   origin   is   linear.
+C)   increasing   returns   to   scale, because   the   isoquants   are   convex.
+D)   decreasing   returns   to   scale, because   the   isoquants   are   convex.
+E)   decreasing   returns   to   scale, because   doubling   inputs   results   in   less   than   double   the   amount   of   output.
+12)   A   farmer   uses   M   units   of   machinery   and   L   hours   of   labor   to   produce   C   tons   of   corn,   with   the   following production   function   C   = L0.5M0.75.    This   production   function   exhibits
+A)   constant   returns   to   scale   for   all   output   levels                                                            B)   increasing   returns   to   scale   for   all   output   levels
+C)   no   clear   pattern   of   returns   to   scale                                                                                                                  D)   decreasing   returns   to   scale   for   all   output   levels
+13)   A   farmer   uses   M   units   of   machinery   and   L   hours   of   labor   to   produce   C   tons   of   corn,   with   the   following production   function   Q   = L0.5   +   M0.75.    This   production   function   exhibits
+A)   decreasing   returns   to   scale   for   all   output   levels.                                              B)   constant   returns   to   scale   for   all   output   levels.
+C)   increasing   returns   to   scale   for   all   output   levels.                                              D)   no   clear   pattern   of   returns   to   scale.
+14)   In   1985,Alice   paid   $20,000 for   an   option   to   purchase   ten   acres   of   land.      By   paying   the   $20,000,   she   bought   the          right   to   buy   the   land   for   $100,000 in   1992.    When   she   acquired   the   option   in   1985, the   land   was   worth   $120,000.   In   1992, it   is   worth   $110,000.    Should   Alice   exercise   the   option   and   pay   $100,000   for   the   land?
+A)   It   depends   on   what   the   rate   of   inflation   was   between   1985   and   1992.
+B)   Yes.
+C)   No.
+D)   It   depends   on   what   the   rate   of   interest   was.
+15)   The   difference   between   the   economic   and   accounting   costs   of   a   firm   are
+A)   the   corporate   taxes   on   profits   .
+B)   the   sunk   costs   incurred   by   the   firm.
+C)   the   accountant's   fees.
+D)   the   explicit   costs   of   the   firm.
+E)   the   opportunity   costs   of   the   factors   of   production   that   the   firm   owns.
+
+
+16) Jim   left   his   previous   job   as   a   sales   manager   and   started   his   own   sales   consulting   business.      He   previously   earned $70,000 per   year,代 写Econ2Z03 Sample Exam Questions_Ch5,6,7SQL
+代做程序编程语言 but   he   now   pays   himself   $25,000   per   year   while   he   is   building   the   new   business.    What   is   the             economic   cost   of   the   time   he   contributes   to   the   new   business?
+A)   $25,000 per   year                                                      B)   zero                                                                                                                     C)   $45,000 per   year                                                      D)   $70,000 per   year
+17)   In   a   short-run   production   process, the   marginal   cost   is   rising   and   the   average   variable   cost   is   falling   as   output   is increased.    Thus,
+A)   marginal   cost   is   below   average   fixed   cost.                                                                         B)   average   fixed   cost   is   constant.
+C)   marginal   cost   is   above   average   variable   cost.                                                       D)   marginal   cost   is   below   average   variable   cost.
+18)   A   firm   employs   100 workers   at   a   wage   rate   of   $10 per   hour,   and   50   units   of   capital   at   a   rate   of   $21 per   hour.      The   marginal   product   of   labor   is   3, and   the   marginal   product   of   capital   is   5.      The   firm
+A)   could   reduce   the   cost   of   producing   its   current   output   level   by   employing   more   capital   and   less   labor.
+B)   is   producing   its   current   output   level   at   the   minimum   cost.
+C)   could   reduce   the   cost   of   producing   its   current   output   level   by   employing   more   labor   and   less   capital.
+D)   could   increase   its   output   at   no   extra   cost   by   employing   more   capital   and   less   labor.
+E)   Both   B   and   D   are   true.
+19)   If   two   different   fuel   sources   (e.g., coal   and   natural   gas)   are   perfect   substitutes   in   the   long-run   production   of energy.    How   will   a   profit   maximizing   firm   choose   between   these   two   inputs?
+A)   The   firm   will   only   use   the   input   with   higher   cost
+B)   The firm cannot achieve a profit maximizing level   of   output   under   these   circumstances
+C)   The   firm   will   use   equal   amounts   of   the   two   inputs, even   if   one   of   the   inputs   has   a   lower   cost
+D)   The   firm   will   only   use   the   input   with   lower   cost
+20)   At   the   current   level   of   output, long-run   marginal   cost   is   $50   and   long-run   average   cost   is   $75.      This   implies that:
+A)   there   are   neither   economies   nor   diseconomies   of   scale.
+B)   there   are   diseconomies   of   scale.
+C)   the   cost-output   elasticity   is   greater   than   one.
+D)   there   are   economies   of   scale.
+21)   The   equation   below   gives   the   degree   of   economies   of   scope   (SC):
+SC   = (C(Q1)   +   C(Q2)   - C(Q1,Q2)) / C(Q1,Q2)
+where   C(Q1) is   the   cost   of   producing   output   Q1,   C(Q2) is   the   cost   of   producing   output   Q2,   and   C(Q1,Q2) is   the joint   cost   of   producing   both   outputs.    If   SC   is   negative:
+A)   there   are   neither   economies   nor   diseconomies   of   scope.
+B)   there   are   economies   of   scope.
+C)   there   are   diseconomies   of   scope.
+D)   there   are   both   economies   and   diseconomies   of   scope.
+
+
+
+Figure   5.1.1
+22)   Refer   to   Figure   5.1.1 above.    Which   of   the   two   jobs   is   more   risky?
+A) Job   1                                                                                                                                                                       B) Job 2
+C)   Both   are   equally   risky.                                                                                                                                                                               D)   Neither   job   is   risky.
+The information in the table below describes choices for a new   doctor.   The   outcomes   represent   different   macroeconomic   environments, which the individual cannot predict.
+Table   5.3
+   
+Outcome   1
+Outcome   2
+Job   Choice
+Prob.
+Income
+Prob.
+Income
+Work   for   HMO
+0.95
+$100,000
+0.05
+$60,000
+Own practice
+0.2
+$250,000
+0.8
+$30,000
+Research
+0.1
+$500,000
+0.9
+$50,000
+23)   Refer   to   Table   5.3. The   expected   returns   are   highest   for   the   physician   who:
+A)   opens   her   own   practice.
+B)   does   research.
+C)   either   opens   her   own   practice   or   does   research.
+D)   either   works   for   an   HMO   or   does   research.
+E) works   for   an   HMO.
+24)   The   expected   value   is   a   measure   of:
+A)   uncertainty.                                                                         B)   central   tendency.                                                 C)   variability.                                                                            D)   risk.
+25)   Blanca   would   prefer   a   certain   income   of   $20,000   to   a   gamble   with   a   0.5   probability   of   $10,000   and   a   0.5   probability   of   $30,000.    Based   on   this   information:
+A)   we   can   infer   that   Blanca   neutral.                                                                                                                            B) we   can   infer   that   Blanca   is   risk   loving.
+C)   we   can   infer   that   Blanca   is   risk   averse.                                                                                           D)   we   cannot   infer   Blanca's   risk   preferences.
+
+
+
+Figure   5.2.2
+26) When   facing   a   50% chance   of   receiving   $50   and   a   50%   chance   of   receiving   $100,   the   individual   pictured   in Figure   5.2.2:
+A)   would   want   to   be   paid   a   risk   premium   of   10 utils   to   give   up   the   opportunity   of   facing   the   two   outcomes.
+B) would   pay   a   risk   premium   of   10 utils   to   avoid   facing   the   two   outcomes.
+C)   would   want   to   be   paid   a   risk   premium   of   $7.50 to   avoid   facing   the   two   outcomes.
+D)   would   pay   a   risk   premium   of   $7.50 to   avoid   facing   the   two   outcomes.
+E) has   a   risk   premium   of   10 utils.
+Scenario   5.8:
+Risk-neutral   Icarus   Airlines   must   commit   now   to   leasing   1, 2,   or   3 new   airplanes.   It   knows   with   certainty   that   on   the   basis   of    business   travel   alone, it   will   need   at   least   1 airplane.      The   marketing   division   says   that   there   is   a   50%   chance   that   tourism   will   be   big   enough   for   a   second   plane   only.    Otherwise,   tourism   will   be   big   enough   for   a   third   plane.      This,   plus   revenue information, yields the following table:
+Planes
+               Tourism Revenue               
+Expected
+Leased   2
+3
+Light                                                                  Heavy
+$90 million                              $30 million
+$10 million                              $140   millionProfit       $60 million $75 million
+27)   Refer   to   Scenario   5.8.    Given   that   the   two   outcomes   are   equally   likely,   Icarus   Airlines'   expected   profit   under complete information would be:
+A)   $120 million.
+B)   $40 million.
+C)   $90 million.
+D)   $125 million.
+E)   $115 million.
+28) We   may   not   be   able   to   fully   remove   risk   by   diversification   if:
+A) buying   stock   on   margin   is   not   allowed   by   financial   regulators.
+B)   a   completely   risk-free   asset   does   not   exist.
+C)   the   asset   returns   in   our   portfolio   are   positively   correlated.
+D)   none   of   the   above
+
+
+29)   Suppose   our   firm   produces   chartered   business   flights   with   capital   (planes)   and   labor   (pilots)   in   fixed   proportion (i.e., one   pilot   for   each   plane).    The   expansion   path   for   this   business   will:
+A) not   be   defined.
+B) be   a   vertical   line.
+C)   follow   the   45-degree   line   from   the   origin.
+D)   increase   at   a   decreasing   rate   because   we   will   substitute   capital   for   labor   as   the   business   grow.
+30) Davy   Metal   Company   produces   brass   fittings.   
+                                       Q =   500L0.6K0.8,
+where   Q   = annual   output   measured   in   pounds, L   = labor   measured   in   person   hours,   K   = capital   measured   in machine   hours. The   marginal   products   of   labor   and   capital   are:
+MPL   = 300L-0.4K0.8                     MP   K   = 400L0.6K-0.2
+Davy's   employees   are   relatively   highly   skilled   and   earn   $15   per   hour.   The   firm   estimates   a   rental   charge   of   $50   per hour on capital.    Determine the firm's optimal capital-labor ratio,   given   the information   above.
+A)   2.5                                                                                                                               B)   0.3                                                                                                                            C)   3.3                                                                                                                               D)   0.4
+
 
 
 
